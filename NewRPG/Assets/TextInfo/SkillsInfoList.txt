@@ -1,0 +1,12 @@
+﻿4001,致命一击,skill-02,伤害 250%,SingleTarget,Attack,2.5,0,6,1,Swordman,1,Enemy,1.5,Efx_CriticalStrike,Sword-Attack2,0.95
+4002,盾牌精通,skill-07,+防御 130%,Buff,Def,1.3,30,5,3,Swordman,3,Self,0,Efx_One-handQuicken,Sword-Skill01,0.95
+4003,战嚎,skill-05,+伤害 150%,Buff,Attack,1.5,30,5,3,Swordman,3,Self,0,Efx_Warcry,Sword-Skill01,0.95
+4004,回旋斩,skill-03,攻击力 200% 所有敌人,Passive,Attack,2,0,10,1,Swordman,6,Self,0,Efx_SwingAttack,Sword-Skill02,0.8
+4005,加速攻击,skill-06,+攻击速度 200%,Buff,AttackSpeed,2,15,15,3,Swordman,7,Self,0,Efx_One-handQuicken,Sword-Skill01,0.95
+4006,巨型打击,skill-04,攻击力 400% 所有敌人,MultiTarget,Attack,4,0,20,1,Swordman,10,Position,7,Efx_MagnumStrike,Sword-AttackCritical,0.8
+5001,魔法弹,skill-09,伤害 350%,SingleTarget,Attack,3.5,0,20,1,Magician,1,Enemy,5,Efx_CriticalStrike,Skill-MagicBall,1.1
+5002,治疗,skill-13,治愈30HP,Passive,HP,30,0,10,1,Magician,2,Self,0,Heal_Effect,Attack1,0.8
+5003,恢复魔法,skill-10,魔法恢复20MP,Passive,MP,20,0,0,1,Magician,5,Self,0,Effect_BlueHeal,Attack1,0.8
+5004,魔法爆炸,skill-05,+攻击力200% 持续15秒,Buff,Attack,2,15,20,3,Magician,7,Self,0,RangeMagic_Effect,Skill-GroundImpact,1.1
+5005,加速魔法,skill-12,+攻击力速度200% 持续30,Buff,AttackSpeed,2,30,20,3,Magician,8,Self,0,Efx_One-handQuicken,Skill-GroundImpact,1.1
+5006,究极风暴,skill-11,攻击力400% 所有敌人,MultiTarget,Attack,4,0,30,1,Magician,9,Position,10,MagicSphere_effect,AttackCritical,0.8
